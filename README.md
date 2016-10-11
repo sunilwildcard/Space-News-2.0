@@ -1,7 +1,7 @@
 # Space-News-2.0
-InOrbit, an application that provides information about future space agency missions, bodies in space, meteorites, astronaut spacewalks, and news sourced from The New York Times, The Guardian, and NPR's APIs. 
+Space News 2.0, aka: "InOrbit" is an application that provides information about future space missions, bodies in space, meteorite landings, astronaut spacewalks, and news sourced from The New York Times, The Guardian, and NPR's APIs. 
 
-A heavy overhaul of "Space News," I use my experiences in developing a news aggregator and learning to communicate with REST APIs to create a more refined app, which represents data from a number of sources including: 
+This is a *heavy* overhaul of Space News. I wanted to use build on my experience developing a news aggregator  to create a more refined app with improved API calls, an improved user interface, and more data from sources including: 
 
 The New York Times
 
