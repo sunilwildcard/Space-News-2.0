@@ -21,3 +21,6 @@ LaunchLibrary's API endpoint for Future Space Missions
 
 Flickr API for images sourced by NASA 
 
+API Calls are made with Square's excellent Retrofit 2.0 Library 
+
+This app is an exercise in managing a multitude of network calls while aiming to provide a fluid user experience. As development continues, design considerations regarding data persistence and multithreading will help to reduce loadtimes, as the above-mentioned API data will be separated into several RecyclerViews represented within a ViewPager
